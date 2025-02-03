@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dat Phi</h1>
 <h3 align="center">A passionate Data Engineer and Software Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/b8e5d8e9-4de8-471c-90cb-f3f5f14bd4ac" width="200" style="border-radius: 50%;">
-</p>
+</p> -->
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **data engineering and software development projects**  
