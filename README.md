@@ -1,27 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dat Phi</h1>
 <h3 align="center">A passionate Data Engineer and Software Developer</h3>
 
+[![Linkedin Badge](https://img.shields.io/badge/-phiquangdat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phiquangdat/)](https://www.linkedin.com/in/phiquangdat/)
+[![Gmail Badge](https://img.shields.io/badge/-datqphi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:datqphi@gmail.com)](mailto:datqphi@gmail.com)
 <!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/b8e5d8e9-4de8-471c-90cb-f3f5f14bd4ac" width="200" style="border-radius: 50%;">
 </p> -->
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **data engineering and software development projects**  
-- 🌱 I’m learning **AI, Cloud Computing, and Big Data**  
-- 📫 How to reach me: [datqphi@gmail.com](mailto:datqphi@gmail.com)  
+- 🌱 I’m learning **AI, Cloud Computing, and Big Data** 
 - 💻 All of my projects are available at: [GitHub Portfolio](https://github.com/phiquangdat/phiquangdat.github.io)
 
 ---
-
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/phiquangdat/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages and Tools
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -63,5 +54,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phiquangdat&show_icons=true&locale=en&layout=compact" alt="GitHub Stats"/>
+  <!--
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phiquangdat&theme=onedark" alt="Trophy"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=phiquangdat&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats">
+  -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phiquangdat&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" style="max-width: 45%; height: auto;">
 </p>
+
