@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dat Phi</h1>
 <h3 align="center">A passionate Data Engineer and Software Developer</h3>
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-phiquangdat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phiquangdat/)](https://www.linkedin.com/in/phiquangdat/)
-[![Gmail Badge](https://img.shields.io/badge/-datqphi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:datqphi@gmail.com)](mailto:datqphi@gmail.com)
-<!-- <p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-phiquangdat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phiquangdat/)](https://www.linkedin.com/in/phiquangdat/) 
+[![Gmail Badge](https://img.shields.io/badge/-datqphi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:datqphi@gmail.com)](mailto:datqphi@gmail.com)
+
+</div>
+
+<!--<p align="center" width="20px" height="20px" style="
+  border-radius: 10px;">
   <img src="https://github.com/user-attachments/assets/b8e5d8e9-4de8-471c-90cb-f3f5f14bd4ac" width="200" style="border-radius: 50%;">
 </p> -->
 
