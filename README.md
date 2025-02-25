@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **data engineering and software development projects**  
 - 🌱 I’m learning **AI, Cloud Computing, and Big Data** 
-- 💻 All of my projects are available at: [GitHub Portfolio](https://github.com/phiquangdat/phiquangdat.github.io)
+- 💻 All of my projects are available at: [GitHub Portfolio](https://github.com/phiquangdat/side-projects)
 
 ---
 ### 🛠️ Languages and Tools
