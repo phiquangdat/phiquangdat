@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dat Phi</h1>
-<h3 align="center">A passionate Data Engineer and Software Developer</h3>
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-phiquangdat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phiquangdat/)](https://www.linkedin.com/in/phiquangdat/) 
@@ -13,7 +12,7 @@
 </p> -->
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **data engineering and software development projects**  
+- 🔭 I’m currently working on **machine learning and software development projects**  
 - 🌱 I’m learning **AI, Cloud Computing, and Big Data** 
 - 💻 All of my projects are available at: [GitHub Portfolio](https://github.com/phiquangdat/side-projects)
 
@@ -66,3 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phiquangdat&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" style="max-width: 45%; height: auto;">
 </p>
 
+### LeetCode Stats
+<div align="center">
+ <img src="https://leetcard.jacoblin.cool/datphi?animation=false">
+</div>
