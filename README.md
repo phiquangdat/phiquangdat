@@ -65,7 +65,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phiquangdat&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" style="max-width: 45%; height: auto;">
 </p>
 
+<!--
 ### LeetCode Stats
 <div align="center">
  <img src="https://leetcard.jacoblin.cool/datphi?animation=false">
 </div>
+-->
